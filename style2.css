@@ -85,26 +85,39 @@ img{
     color: #0bd;
 }
 
-/*カバー画像
+/*ヘッダーカバー画像
 --------------------------------------------------*/
 .cover{
     background-size: cover;
     background-position: center bottom;
     height: 800px;
 }
-.cover-home{
-    background-image: url(images/cover-home-s.webp);
+.sub-cover{
+    background-size: cover;
+    background-position: center bottom;
+    height: 528px;
+    margin-bottom: 4rem;
 }
 
-/*見出し本文
+/*HOME
 --------------------------------------------------*/
+.cover-home{
+    background-image: url(images/cover-home-s.ipg);
+}
+
 .about{
     max-width: 736px;
     padding: 0 1.5rem;
-    margin: 3rem auto 0;
+    margin: 3rem auto 4rem;
 }
 .about p{
     margin-bottom: 3rem;
+}
+
+/*NEWS
+--------------------------------------------------*/
+.cover-news{
+    background-image: url(images/cover-news-s.webp);
 }
 
 /*フッター
