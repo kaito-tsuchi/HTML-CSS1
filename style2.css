@@ -35,7 +35,7 @@ img{
     font-family:"Philosopher",sans-serif;
     font-weight:normal;
 }
-.page-title,.headding-large, .headding-medium{
+.page-title,.heading-large, .heading-medium{
     font-size: 3rem;
     text-align: center;
 }
@@ -45,7 +45,7 @@ img{
     line-height: 1.4;
 
 }
-.headding-large{
+.heading-large{
     margin-bottom: 1rem;
 }
 
@@ -102,7 +102,7 @@ img{
 /*HOME
 --------------------------------------------------*/
 .cover-home{
-    background-image: url(images/cover-home-s.ipg);
+    background-image: url(images/cover-home-s.webp);
 }
 
 .about{
