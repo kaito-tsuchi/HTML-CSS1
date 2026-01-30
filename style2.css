@@ -200,6 +200,11 @@ img{
     font-size: .875rem;
 }
 
+/*CONTACT
+--------------------------------------------------*/
+.cover-contact{
+    background-image: url(images/cover-contact-s.webp);
+}
 
 /*フッター
 --------------------------------------------------*/
