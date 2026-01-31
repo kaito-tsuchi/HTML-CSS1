@@ -244,7 +244,12 @@ iframe{
 .sns-item .heading-medium{
     margin-bottom: .5rem;
 }
-
+.sns-youtube{
+    aspect-ratio: 16/9;
+}
+.sns-youtube iframe{
+    height: 100%;
+}
 
 /*フッター
 --------------------------------------------------*/
