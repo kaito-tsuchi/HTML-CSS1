@@ -63,6 +63,11 @@ img{
     background-color: #0090aa;
 }
 
+/*iframe*/
+iframe{
+    width: 100%;
+}
+
 /*ヘッダー
 --------------------------------------------------*/
 .page-header{
@@ -204,6 +209,18 @@ img{
 --------------------------------------------------*/
 .cover-contact{
     background-image: url(images/cover-contact-s.webp);
+}
+
+/*店舗情報
+--------------------------------------------------*/
+.location{
+    margin-bottom: 3.5rem;
+}
+.location-info{
+    margin-bottom: 2rem;
+}
+.location-info .info{
+    padding: 0;
 }
 
 /*フッター
